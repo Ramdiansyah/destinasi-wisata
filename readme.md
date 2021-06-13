@@ -26,16 +26,16 @@ Kekurangan fitur kami sebagai berikut :
 - Fokus kepada kebeberapa tempat destinasi wisata lokal dan jangkauan pencarian destinasi wisata masih kurang luas
 
 - Tampilan menu template dan screenshot web kami :
-![link](web.png)
-![link](.jpeg)
-![link](.jpeg)
+![link](template.jpeg)
+![link](web1.jpeg)
+![link](web2.jpeg)
 
 
 - Tampilan file Codingan kami : 
-![link](.png)
-![link](.png)
-![link](.png)
-![link](.png)
-![link](.png)
+![link](coding1.jpeg)
+![link](coding2.jpeg)
+![link](coding3.jpeg)
+![link](coding4.jpeg)
+![link](coding5.jpeg)
 
 
